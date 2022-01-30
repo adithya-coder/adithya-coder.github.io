@@ -9,7 +9,7 @@ const settings = {
   const seo = {
     title: "Adithya's Portfolio",
     description:
-      "Full-Stack Software Engineer",
+      "Full-Stack Engineer",
     og: {
       title: "Adithya Heshan Portfolio",
       type: "website",
